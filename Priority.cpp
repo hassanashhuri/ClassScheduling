@@ -1,3 +1,8 @@
+/*Muhammad Nur Firdaus Bin Muhamed Haireen (1815259)
+Izzul Ismail Bin Ibrahim (1817963)
+Mustaqim Bin Abdul Karim (1813739)
+Muhammad Hassan Bin M Ashhuri (1812637)*/
+
 #include <iostream>
 #include <bits/stdc++.h> 
 using namespace std; 
